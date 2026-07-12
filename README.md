@@ -1,5 +1,7 @@
 # Smart Flower Pot
 
+With this smart flower pot you will never forget to water your plants. If you don't water it within a time interval you can set on the screen, 3 speakers will scream at you until the motion sensor detects movement (you watering the plant) - it won't stop. It also monitors the humidity, temperature and light conditions of your plant and displays it on the screen.
+
 ## BOM
 
 | Qty | Part | Source |
